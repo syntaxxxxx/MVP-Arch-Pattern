@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ChatRealtimeTracking</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="silahkan_buat_akun_dulu_ya_enjoy">Silahkan buat akun dulu ya, Enjoy !</string>
+    <string name="take_images">Take Images</string>
+    <string name="choose_gallery">Choose from Library</string>
+    <string name="cancel">Cancel</string>
+    <string name="cant_take_picture">Can not Take Picture</string>
+    <string name="is_empty_field">Tidak Boleh Kosong</string>
+    <string name="isEmptyListUser">Tidak Ada Data User</string>
+    <string name="title_activity_tracking_pesanan">Map</string>
+    <string name="ada_pdf">File PDF Sudah Terpilih</string>
+</resources>
